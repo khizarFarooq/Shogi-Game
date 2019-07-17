@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1463774049 source:c:\users\khizar dogar\desktop\shogi\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<fstream>
+
+1464079964 source:c:\users\khizar dogar\desktop\shogi(khizar dogar)\main.cpp
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<iostream>
+	<fstream>
+
+1464076364 source:e:\shogi(khizar dogar)\main.cpp
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<iostream>
+	<fstream>
+
